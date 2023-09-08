@@ -1,4 +1,4 @@
-# EmpoIring_Ontario-s_Education_A Comprehensive Network Performance Analytics Solution 
+# Empowering_Ontario-s_Education_A Comprehensive Network Performance Analytics Solution 
                                  
 INTRODUCTION
 
